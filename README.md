@@ -8,6 +8,6 @@ https://medium.com/collabcode/pare-de-chutar-e-aprenda-as-propriedades-css-de-po
 
 One thing that I found to be extremely helpful was to give borders to all my divs, this way I can visualize the changes that I make. 
 
-You'll see that the page looks almost identical to that of Google's. So I'm pretty happy with the overall results. However, I didn't use flexbox, which is apparently the hottest thing to use. So I will commit this initial version with no CSS and then I will learn how to properly use the flexbox and I'll push that version later on. 
+You'll see that the page looks almost identical to that of Google's. So I'm pretty happy with the overall results. However, I didn't use flexbox, which is apparently the hottest thing to use. So I will commit this initial version with no flexbox and then I will learn how to properly use the flexbox and I'll push that version later on. 
 
 Let's see how that goes... 
